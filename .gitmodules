@@ -1,0 +1,3 @@
+[submodule "Cangjie6-Sharp"]
+	path = Cangjie6-Sharp
+	url = https://github.com/InSb/Cangjie6-Sharp.git
