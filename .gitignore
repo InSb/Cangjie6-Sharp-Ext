@@ -1,0 +1,14 @@
+# Python Cache
+**/__pycache__/**
+
+# Python Virtual Environment
+**/.venv/**
+
+# macOS system files
+.DS_Store
+
+# Vim temporary files
+*.sw*
+
+# Excel temporary files
+~*
